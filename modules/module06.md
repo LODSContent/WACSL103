@@ -1,6 +1,4 @@
-# Module 06 - Lineage
-
-[< Previous Module](../modules/module05.md) - **[Home](../README.md)** - [Next Module >](../modules/module07.md)
+# Lineage
 
 ## :loudspeaker: Introduction
 
