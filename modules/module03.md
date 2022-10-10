@@ -19,11 +19,13 @@ In this module, you'll learn to edit technical metadata by adding definitions an
 
 ## 1. Search Catalog
 
-1. Open the **Microsoft Purview Governance Portal**, navigate to **Data Catalog** > **Home**, type the asterisk character (**\***) into the search bar, and hit **Enter**.
+1. From the **Azure Portal**, search for Purview and click on **Microsoft Purview Accounts**.  Click on the account starting in **pvdemo**.
+
+2. Open the **Microsoft Purview Governance Portal**, navigate to **Data Catalog** > **Home**, type the asterisk character (**\***) into the search bar, and hit **Enter**.
 
     ![Search Wildcard](../images/module03/03.01-search-wildcard.png)
 
-2. Filter the search results by **Classification** (e.g. **Country/Region**) and click the hyperlinked asset name to view the details (e.g. `QueriesByState`).
+3. Filter the search results by **Classification** (e.g. **Country/Region**) and click the hyperlinked asset name to view the details (e.g. `QueriesByState`).
 
     ![Filter by Classification](../images/module03/03.02-search-filter.png)
 
